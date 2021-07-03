@@ -7,7 +7,7 @@ My name is Felipe Santos, I'm 17 years old, my nickname is ImString and I'm a dr
 
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
   ![MTA-Lua](https://img.shields.io/badge/MTALUA-732cc9?style=for-the-badge&logo=lua&logoColor=17042e)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-ff7700?style=for-the-badge&logo=lua&logoColor=ff8c00)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-ffc800?style=for-the-badge&logo=lua&logoColor=ff9500)
   ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
   ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
@@ -30,5 +30,5 @@ My name is Felipe Santos, I'm 17 years old, my nickname is ImString and I'm a dr
   
 <br/>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CeCeloz&theme=tokyonight&fire=DD6400&ring=DD6400&currStreakNum=DD985F&stroke=484848)](https://git.io/streak-stats)
-[![nosphery stats](https://github-readme-stats.vercel.app/api?username=CeCeloz&layout=compact&theme=tokyonight&hide_title=true&show_icons=true&count_private=true)](https://github.com/nosphery/)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ImString&theme=tokyonight&fire=DD6400&ring=DD6400&currStreakNum=DD985F&stroke=484848)](https://git.io/streak-stats)
+[![nosphery stats](https://github-readme-stats.vercel.app/api?username=ImString&layout=compact&theme=tokyonight&hide_title=true&show_icons=true&count_private=true)](https://github.com/ImString/)
