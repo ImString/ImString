@@ -8,7 +8,7 @@ My name is Felipe Santos, I'm 17 years old, my nickname is ImString and I'm a dr
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
   ![MTA-Lua](https://img.shields.io/badge/MTALUA-732cc9?style=for-the-badge&logo=lua&logoColor=17042e)
   ![PhP](https://img.shields.io/badge/PhP-777BB3?style=for-the-badge&logo=php&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-ffc800?style=for-the-badge&logo=lua&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-777BB3?style=for-the-badge&logo=javascript&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
   ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
