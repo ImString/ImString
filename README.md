@@ -23,7 +23,7 @@ My name is Felipe Santos, I'm 18 years old, my nickname is ImString and I'm a dr
 <details>
   <summary>💬 Contact</summary>
    </br>    <img align="left" alt="Discord" target="_blank" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"/>
-  <string>ImString#4343</string>
+  <string>imstring</string>
   
    </br> <img align="left" alt="Twitter" target="_blank" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg"/>
   <string>@Felipe_Aug11</string> </br>
