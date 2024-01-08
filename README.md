@@ -31,5 +31,5 @@ My name is Felipe Santos, I'm 19 years old, my nickname is ImString and I'm a dr
   
 <br/>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ImString&theme=tokyonight&fire=DD6400&ring=DD6400&currStreakNum=DD985F&stroke=484848)](https://git.io/streak-stats)
-[![nosphery stats](https://github-readme-stats.vercel.app/api?username=ImString&layout=compact&theme=tokyonight&hide_title=true&show_icons=true&count_private=true)](https://github.com/ImString/)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ImString&theme=tokyonight&fire=DD6400&ring=DD6400&currStreakNum=DD985F&stroke=484848&locale=pt_BR)](https://git.io/streak-stats)
+[![nosphery stats](https://github-readme-stats.vercel.app/api?username=ImString&layout=compact&theme=tokyonight&hide_title=true&show_icons=true&count_private=true&locale=pt_BR)](https://github.com/ImString/)
