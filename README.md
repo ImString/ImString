@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
 
 ### Welcome to my github 💫
-My name is Felipe Santos, I'm 19 years old, my nickname is ImString and I'm a dreamy developer
+My name is Felipe Santos, I'm 20 years old, my nickname is ImString and I'm a dreamy developer
 
 ### :clipboard: Technologies:
 
