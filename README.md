@@ -1,77 +1,63 @@
-# 🧑🏻‍💻 Felipe Santos [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/felipe-augusto-07b74a257/)
-
-**`Desenvolvedor FullStack`**
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
-
-Me chamo **Felipe**, tenho **21 anos** e moro em **Patos de Minas**.
-Mas na internet a galera costuma me chamar de String (meu apelido no Discord).
-
-Sou apaixonado por tecnologia desde os 13 anos e trabalho com programação desde os 16.
-Gosto de resolver problemas com código, criatividade e uma boa dose de curiosidade.
-Comecei programando pra brincar e criar soluções em jogos online, e hoje transformo ideias em projetos reais para o mundo dos negócios.
-
-Extrovertido, comunicativo e sempre pronto pra aprender algo novo — afinal, cada desafio é uma oportunidade. 🚀
-
-<p align="left">
-    <a href="https://github.com/ImString?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/ImString?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/ImString?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/ImString?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+<p align="center">
+  <img src="./github-banner.png" alt="Felipe Santos — Software Developer" width="100%" />
 </p>
 
-<br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/im-felipe-santos/">
+    <img src="https://img.shields.io/badge/LinkedIn-11161C?style=for-the-badge&logo=linkedin&logoColor=22C55E" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/ImString">
+    <img src="https://img.shields.io/badge/ImString-11161C?style=for-the-badge&logo=github&logoColor=22C55E" alt="GitHub" />
+  </a>
+</p>
 
----
+## 👋 Sobre mim
 
-### :clipboard: Linguagens e Tecnologias:
+Me chamo Felipe, mas na internet provavelmente você vai me encontrar como String.
 
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Bun](https://img.shields.io/badge/Bun-000?style=for-the-badge&logo=bun&logoColor=white)
-  ![Lua](https://img.shields.io/badge/LUA-2C2D72?style=for-the-badge&logo=lua&logoColor=17042e)
-  ![PhP](https://img.shields.io/badge/PhP-777BB3?style=for-the-badge&logo=php&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![Redis](https://img.shields.io/badge/Redis-ff4235?style=for-the-badge&logo=redis&logoColor=white)
-  ![React](https://img.shields.io/badge/React-00d0f6?style=for-the-badge&logo=react&logoColor=white)
-  ![TailWind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+Sou apaixonado por tecnologia desde cedo e gosto principalmente de transformar ideias em software, resolver problemas e entender como as coisas funcionam por trás de cada solução.
 
-### 🚀 Ferramentas
+Comecei programando para criar projetos e sistemas em jogos online. Hoje, levo essa mesma curiosidade para o desenvolvimento de aplicações reais, trabalhando principalmente com TypeScript, Node.js, React e Java.
 
-  ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=blue)
-  ![Visual Studio Code](https://img.shields.io/badge/VSCode-008B8B?style=for-the-badge&logo=coder&logoColor=blue)
-  ![Github Desktop](https://img.shields.io/badge/GitHub_Desktop-gray?style=for-the-badge&logo=github&logoColor=purple)
+Gosto de ambientes onde posso construir, experimentar, aprender e colaborar com outras pessoas — sempre buscando transformar desafios em soluções simples e úteis.
 
-### 📊 Estatísticas
+📍 Patos de Minas, MG — Brasil
+
+## 💻 Tecnologias
+
+**Stack principal**
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ImString&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImString&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+  <img src="https://img.shields.io/badge/TypeScript-11161C?style=for-the-badge&logo=typescript&logoColor=22C55E" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-11161C?style=for-the-badge&logo=node.js&logoColor=22C55E" alt="Node.js" />
+  <img src="https://img.shields.io/badge/React-11161C?style=for-the-badge&logo=react&logoColor=22C55E" alt="React" />
+  <img src="https://img.shields.io/badge/Java-11161C?style=for-the-badge&logo=openjdk&logoColor=22C55E" alt="Java" />
 </p>
-<br>
+
+**Também trabalho com**
+
+<p>
+  <img src="https://img.shields.io/badge/Lua-11161C?style=for-the-badge&logo=lua&logoColor=E6EDF3" alt="Lua" />
+  <img src="https://img.shields.io/badge/JavaScript-11161C?style=for-the-badge&logo=javascript&logoColor=E6EDF3" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/MySQL-11161C?style=for-the-badge&logo=mysql&logoColor=E6EDF3" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-11161C?style=for-the-badge&logo=mongodb&logoColor=E6EDF3" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-11161C?style=for-the-badge&logo=redis&logoColor=E6EDF3" alt="Redis" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-11161C?style=for-the-badge&logo=tailwindcss&logoColor=E6EDF3" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Docker-11161C?style=for-the-badge&logo=docker&logoColor=E6EDF3" alt="Docker" />
+</p>
+
+**Ferramentas**
+
+<p>
+  <img src="https://img.shields.io/badge/VS_Code-11161C?style=for-the-badge&logo=codecrafters&logoColor=22C55E" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-11161C?style=for-the-badge&logo=intellijidea&logoColor=22C55E" alt="IntelliJ IDEA" />
+  <img src="https://img.shields.io/badge/Git-11161C?style=for-the-badge&logo=git&logoColor=22C55E" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-11161C?style=for-the-badge&logo=github&logoColor=22C55E" alt="GitHub" />
+</p>
+
+## 📊 GitHub
+
+<p align="center">
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=ImString&show_icons=true&include_all_commits=true&hide_border=false&bg_color=0D1117&title_color=22C55E&text_color=E6EDF3&icon_color=22C55E&border_color=30363D&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ImString&layout=compact&langs_count=8&hide_border=false&bg_color=0D1117&title_color=22C55E&text_color=E6EDF3&border_color=30363D&locale=pt-br" alt="Linguagens mais utilizadas" />
+</p>
