@@ -9,7 +9,7 @@
   <a href="https://github.com/ImString">
     <img src="https://img.shields.io/badge/ImString-11161C?style=for-the-badge&logo=github&logoColor=22C55E" alt="GitHub" />
   </a>
-  <a href="https://github.com/ImString">
+  <a href="https://imstring.dev">
     <img src="https://img.shields.io/badge/Portfólio-11161C?style=for-the-badge&logo=pinboard&logoColor=22C55E" alt="Portfólio" />
   </a>
 </p>
